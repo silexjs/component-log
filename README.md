@@ -1,7 +1,7 @@
-Console Component
+Log Component
 ========
 
-Little console system.
+Little logger system.
 
 Package owned [Silex](https://www.npmjs.com/package/silex).
 
@@ -9,5 +9,5 @@ Install
 --------
 
 ```bash
-$ npm install silex-component-console
+$ npm install silex-component-log
 ```
